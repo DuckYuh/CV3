@@ -1,4 +1,4 @@
-# Panorama Image Stitching (Computer Vision Project)
+# Ghép ảnh toàn cảnh (Panoramic Photos– Image Stitching)
 
 ## 📌 Giới thiệu
 Project thực hiện ghép nhiều ảnh thành ảnh toàn cảnh (panorama) bằng phương pháp dựa trên đặc trưng (feature-based image stitching).
